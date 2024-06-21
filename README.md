@@ -10,7 +10,7 @@ Open google collab
 create new repository
 copy this code and run in the cell
 Enter the all required input like - starting point, goals, and obastcles.
-click on run Dijkshtra button and wait few minutes output will bw printing soon with done moving animation,
+click on run Dijkshtra button and wait few minutes output will be printing soon with drone moving animation.
 
 
 # Explanation
